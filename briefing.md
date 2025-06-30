@@ -32,10 +32,10 @@ Agora que você já sabe o que é briefing e sua importância, confira um breve 
 4. Houve evolução do mercado nos últimos anos?
 5. A dinâmica do mercado se dá sob quais influências? (política, econômica, ambiental, regional, sazonal, demográfica, entre outros).
 ## Passo 5 – Informações sobre a concorrência
-Quem são os seus concorrentes diretos e indiretos?
-1. Qual é a política de preço adotada por seus concorrentes?
-2. Quais as principais estratégias de marketing e comunicação da concorrência?
-3. Como os seus concorrentes se posicionam no mercado?
+1. Quem são os seus concorrentes diretos e indiretos?
+2. Qual é a política de preço adotada por seus concorrentes?
+3. Quais as principais estratégias de marketing e comunicação da concorrência?
+4. Como os seus concorrentes se posicionam no mercado?
 ## Passo 6 – Definição dos objetivos
 1. Aumentar a participação no mercado;
 2. Intensificar as vendas;
