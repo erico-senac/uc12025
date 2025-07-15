@@ -1,6 +1,6 @@
 # `Unidades Curriculares Carga horária`
 ---
-- [ ] UC1: Elaborar projetos de aplicações para web*	36 horas
+- [x] UC1: Elaborar projetos de aplicações para web*	36 horas
 - [ ] UC2: Desenvolver aplicações para websites	72 horas
 - [ ] UC3: Codificar front-end de aplicações web	96 horas
 - [ ] UC4: Publicar aplicações web**	36 horas
@@ -8,7 +8,7 @@
 > [!IMPORTANT]
 > #### `Qualificação Profissional Técnica em Desenvolvedor front-end (UC1 a UC5:) 264 horas`
 ---
-- [ ] UC6: Desenvolver algoritmos	96 horas
+- [x] UC6: Desenvolver algoritmos	96 horas
 - [ ] UC7: Codificar back-end de aplicações web	120 horas
 - [ ] UC8: Implementar banco de dados para web	84 horas
 - [ ] UC9: Desenvolver serviços web	48 horas
