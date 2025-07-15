@@ -1,6 +1,7 @@
 # `Unidades Curriculares Carga horária`
 ---
-- [x] UC1: Elaborar projetos de aplicações para web*	36 horas
+|Descrição|Carga Horária|
+- [x] | UC1: Elaborar projetos de aplicações para web* | 36 horas |
 - [ ] UC2: Desenvolver aplicações para websites	72 horas
 - [ ] UC3: Codificar front-end de aplicações web	96 horas
 - [ ] UC4: Publicar aplicações web**	36 horas
