@@ -9,7 +9,7 @@
 > #### `Qualificação Profissional Técnica em Desenvolvedor front-end (UC1 a UC5:) 264 horas`
 ---
 - [x] UC6: Desenvolver algoritmos 96 horas - Antonio
-- [ ] UC7: Codificar back-end de aplicações web	120 horas
+- [x] UC7: Codificar back-end de aplicações web	120 horas - Antonio
 - [ ] UC8: Implementar banco de dados para web 84 horas
 - [ ] UC9: Desenvolver serviços web	48 horas
 - [ ] UC10: Organizar o processo de trabalho no desenvolvimento de aplicações*** 48 horas
