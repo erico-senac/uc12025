@@ -2,7 +2,7 @@
 ---
 - [x] UC1: Elaborar projetos de aplicações para web* 36 horas  - Érico
 - [x] UC2: Desenvolver aplicações para websites	72 horas - Érico
-- [ ] UC3: Codificar front-end de aplicações web 96 horas - Érico
+- [x] UC3: Codificar front-end de aplicações web 96 horas - Érico
 - [ ] UC4: Publicar aplicações web** 36 horas
 - [x] UC5: Projeto Integrador Desenvolvedor front-end (24 horas) - Paulo
 > [!IMPORTANT]
