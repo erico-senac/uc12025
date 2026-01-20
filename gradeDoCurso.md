@@ -10,8 +10,8 @@
 ---
 - [x] UC6: Desenvolver algoritmos 96 horas - Antonio
 - [x] UC7: Codificar back-end de aplicações web	120 horas - Antonio
-- [ ] UC8: Implementar banco de dados para web 84 horas
-- [ ] UC9: Desenvolver serviços web	48 horas
+- [ ] UC8: Implementar banco de dados para web 84 horas - Paulo
+- [ ] UC9: Desenvolver serviços web	48 horas - Érico
 - [ ] UC10: Organizar o processo de trabalho no desenvolvimento de aplicações*** 48 horas
 - [x] U11: Projeto Integrador Desenvolvedor back-end (32 horas) - Antonio
 > [!IMPORTANT]
